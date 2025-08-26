@@ -26,5 +26,10 @@ namespace Primer_Proyecto_2025
         {
             MessageBox.Show("Hola mundo");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Adios mundo");
+        }
     }
 }
